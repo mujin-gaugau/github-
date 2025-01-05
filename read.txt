@@ -1,6 +1,7 @@
 git init: gitgit
 git clone
 git pull
+git status                                    : xem trạng thái các file chuẩn bị lưu
 
 git add filename                              : chuẩn bị flie để lưu lại
 git reset                                     : xóa các flie chuẩn bị để lưu lại 
