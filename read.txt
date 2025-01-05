@@ -7,4 +7,4 @@ git reset                                     : xóa các flie chuẩn bị đ�
 git commit -m 'content about changes'         : lưu các file đã chuẩn bị
 git push
 
-git log : 
+git log                                       : xem những thời điểm đã lưu file
