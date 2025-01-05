@@ -1,0 +1,10 @@
+git init: gitgit
+git clone
+git pull
+
+git add [filename||.]                         : chuẩn bị flie để lưu lại
+git reset                                     : xóa các flie chuẩn bị để lưu lại 
+git commit -m 'content'                       : lưu các file đã chuẩn bị
+git push
+
+git log
